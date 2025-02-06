@@ -18,8 +18,8 @@ Users should be able to:
 
   ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)\_
+- Solution URL: [https://github.com/hamdanideni/femc-ping-coming-soon-page](https://github.com/hamdanideni/femc-ping-coming-soon-page)
+- Live Site URL: [https://hamdanideni.github.io/femc-ping-coming-soon-page/](https://hamdanideni.github.io/femc-ping-coming-soon-page/)\_
 
 ## My process
 
