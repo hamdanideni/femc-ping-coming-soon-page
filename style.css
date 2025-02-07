@@ -179,6 +179,7 @@ main {
   font-weight: var(--fw-semibold);
   margin-top: 0.5rem;
   cursor: pointer;
+  transition: background-color 0.5s ease-in-out;
 
   box-shadow: 0 8px 4px -4px hsla(223, 87%, 63%, 0.75);
 }
@@ -207,6 +208,7 @@ main {
   height: 38px;
   color: var(--clr-blue);
   cursor: pointer;
+  transition: background-color 0.5s ease-in-out;
 }
 
 .social__share-lists i:hover {

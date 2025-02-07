@@ -25,7 +25,6 @@ const setSuccess = (element) => {
 
 const validateInputs = () => {
   const inputValue = emailInput.value.trim();
-  console.log(inputValue);
 
   if (inputValue === "") {
     setError(emailInput, "Whoops! It looks like you forgot to add your email");
